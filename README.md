@@ -1,6 +1,8 @@
 # NOP_Plugin
 
-Plugin for NOPing instructions in IDA. The creation of the plugin was inspired by Vidar Stealer. 
+Plugin for NOPing instructions in IDA.
+
+The creation of the plugin was inspired by Vidar Stealer (I was trying to remove the junk bytes / instructions).
 
 #### Before:
 
