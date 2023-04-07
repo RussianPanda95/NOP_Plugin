@@ -6,7 +6,7 @@ import idc
 class NopPlugin(idaapi.plugin_t):
     flags = idaapi.PLUGIN_KEEP
     comment = "NOP selected instructions"
-    help = ""
+    help = "This plugin allows you to NOP selected instructions to remove junk bytes / instructions"
     wanted_name = "NOPPlugin"
     wanted_hotkey = "Shift+Z"
 
